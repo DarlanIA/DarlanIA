@@ -1,0 +1,17 @@
+4.	PAPEL E RESPONSABILIDADES
+4.1.	Força de Vendas: Impute de informações conforme regras definidas, dentro do processo de Novas Ativações.
+4.2.	Coordenação de Governança Empresas: Identificação e correção de casos fora do padrão estabelecido nas regras para carteira CS e Impute de informações conforme regras definidas, dentro do processo de Downgrade executado pelo Squad Downgrade.
+4.3.	Accenture Primeiro Faturamento: Identificação e correção de casos fora do padrão estabelecido nas regras para demais clientes.
+4.4.	Accenture ADM Vendas: Impute de informações conforme regras definidas, dentro do processo de Alterações.
+4.5.	Accenture Causa Raiz: Correção de erros de impute de dados em casos de Contestação.
+5.	DEFINIÇÕES
+5.1.	Golden Jumper: É uma ligação física que atende à necessidade de interconexão entre o equipamento do cliente, hospedado em um dos Pop's (Ponto de Presença).
+5.2.	Finder: Quando alguém indica uma venda ao consultor e é comissionado e como consequência o consultor não recebe comissão total.
+6.	DESCRIÇÃO
+6.1.	Generalidades
+6.1.1.	Para cada tipo de input no sistema, teremos a escolha de um tipo de reajuste mais adequado para a ocasião em questão, a qual definimos e consideraremos abaixo:
+a.	Novas Ativações: Considerar sempre o tipo de reajuste “Data Ativação”;
+b.	Downgrade/Upgrade: Padronizar o tipo de reajuste “Data de assinatura” (do aditivo);
+c.	Cancela/Substitui: Usar o reajuste de Data Base, porque ele é flexibilizado e permite retroagir para data de ativação ou assinatura do contrato cancelado;
+d.	Cliente Governo: Colocar tipo de reajuste data de ativação e marcar “Sem Reajuste”, pois o reajuste em governo depende da anuência do órgão;
+e.	Renovação Contratual sem alteração de Valor: Utilizar sempre o tipo de reajuste “Data de assinatura”.
